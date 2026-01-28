@@ -46,4 +46,7 @@ This connects electricity demand prediction with fossil fuel usage and environme
 
 1. Clone repository
 2. Install dependencies:
+## 📌 Deployment
+Deployed using Streamlit Cloud.
+
 
